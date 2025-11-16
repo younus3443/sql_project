@@ -4,6 +4,7 @@ This project performs IPL (Indian Premier League) data analysis using SQL on a P
 
 # Project Structure
 ```
+
 data-project-database/
 │
 ├── 01_create_db.sql
@@ -14,7 +15,8 @@ data-project-database/
 │   ├── matches.csv
 │   ├── deliveries.csv
 │   └── umpires.csv
-└── README.md
+├── .gitignore
+└──README.md
 ```
 ## Problems
 

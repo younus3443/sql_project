@@ -1,5 +1,5 @@
 # Project Structure
-
+```
 data-project-database/
 │
 ├── 01_create_db.sql
@@ -11,3 +11,4 @@ data-project-database/
 │   ├── deliveries.csv
 │   └── umpires.csv
 └── README.md
+```
